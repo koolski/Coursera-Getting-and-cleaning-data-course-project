@@ -4,7 +4,7 @@ This codebook gives description on pre-processing steps and variables in `tidyda
 ## The following steps were performed during pre-processing:
 - training and testing data merged into one dataset
 - columns with mean and standard deviation extracted from dataset
-- activity labels matched with their description
+- activity labels matched with theirs descriptions
 - the dataset columns renamed and the names cleaned from unwanted symbols
 - new dataset containing average measures for each subject and activity was created
 
