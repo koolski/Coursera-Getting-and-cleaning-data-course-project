@@ -1,12 +1,5 @@
 # Code Book
-This codebook gives description on pre-processing steps and variables in `tidydata.txt`.
-
-## The following steps were performed during pre-processing:
-- training and testing data merged into one dataset
-- columns with mean and standard deviation extracted from dataset
-- activity labels matched with theirs descriptions
-- the dataset columns renamed and the names cleaned from unwanted symbols
-- new dataset containing average measures for each subject and activity was created
+This codebook gives description on variables in `tidydata.txt`.
 
 ## Description of the final dataset
 - `subject` - id of a person who participated in the experiement. Integer ranging from `1` to `30`
